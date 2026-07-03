@@ -52,6 +52,7 @@ that adds a `★` link to the table below!
 <td>Sites</td>
 <td>
 <a href="https://francescocongiu.com" target="_blank">★</a>
+<a href="https://alics-dev.github.io" target="_blank">★</a>
 </td>
 </tr>
 </table>
