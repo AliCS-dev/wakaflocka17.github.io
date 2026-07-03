@@ -49,9 +49,16 @@ that adds a `★` link to the table below!
 
 <table>
 <tr>
-<td>Sites</td>
+<td>Francesco Congiu</td>
 <td>
 <a href="https://francescocongiu.com" target="_blank">★</a>
+</td>
+</tr>
+
+<tr>
+<td>Muhammad Ali Khan</td>
+<td>
+<a href="https://alics-dev.github.io" target="_blank">★</a>
 </td>
 </tr>
 </table>
